@@ -8,13 +8,13 @@
   width: 900px;
 }
 
-.q2__img-balloon {
+.q2__img-left {
   float: left;
   margin-right: 20px;
   margin-bottom: 10px;
 }
 
-.q2__img-lump {
+.q2__img-right {
   float: right;
   margin-left: 20px;
   margin-bottom: 10px;

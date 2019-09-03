@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.q6--horizontall .q6__text {
+.q6__text-box {
   background-color: #e6f2ff;
   padding: 10px 0;
   width: 90px;
