@@ -266,6 +266,11 @@
   line-height: 26px;
 }
 
+.submit_btn_box:active {
+  background-color: #fff;
+  color: #00BCD4;
+}
+
 .side_contents {
   float: right;
   width: 380px;
@@ -280,5 +285,9 @@
   font-size: 12px;
   box-sizing: border-box;
   resize: none;
+}
+
+.input_text_box:focus, .textarea_box:focus {
+  box-shadow: 0 0 6px 1px #00BCD4;
 }
 /* 回答はここに書いてね */

@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.q3__content {
+.q3__contents {
   border: 1px solid #dedede;
   table-layout: fixed;
   text-align: center;
@@ -9,20 +9,20 @@
   width: 100%;
 }
 
-.q3__content-th , .q3__content-td {
+.q3__contents th , .q3__contents td {
   border: 1px solid #dedede;
   padding: 10px;
   text-align: center;
 }
 
-.q3__content-th {
+.q3__contents th {
   background-color: #2244aa;
   color: #fff;
   font-size: 18px;
   line-height: 26px;
 }
 
-.q3__content-td {
+.q3__contents td {
   font-size: 16px;
   line-height: 22px;
 }
